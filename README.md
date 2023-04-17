@@ -22,5 +22,5 @@ Small project to recap HTML semantic elements and short description of myself
 
 ## Getting started
 
-Use <code>git clone</code>
+Use <code>git clone</code> or <br>
 Visit: (https://users.metropolia.fi/~roniak/integrify/Frontend/fs15_1-basic-html/)
