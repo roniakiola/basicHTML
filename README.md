@@ -22,5 +22,5 @@ Small project to recap HTML semantic elements and short description of myself
 
 ## Getting started
 
-Use ==git clone==
+Use ==git clone==.
 Visit: address
