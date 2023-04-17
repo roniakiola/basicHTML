@@ -21,3 +21,6 @@ Small project to recap HTML semantic elements and short description of myself
     README.md
 
 ## Getting started
+
+Use ==git clone==
+Visit: address
